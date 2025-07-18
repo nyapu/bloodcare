@@ -31,7 +31,7 @@ const Home = () => {
       <div className="container pt-4 flex-grow-1">
 
         {/* 🌟 Featured News Preview */}
-        {/* 🌟 Featured News from JSON */}
+       
         <section className="mb-5 row align-items-center">
           <div className="col-md-6">
             <img
